@@ -8,6 +8,8 @@ baseurl: "" # Leave empty
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "default" # Options: air, aqua, contrast, dark, dirt, sunrise
 
+include: ["_pages"]
+
 # Plugins
 plugins:
   - jekyll-remote-theme
