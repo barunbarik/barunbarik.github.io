@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-## Hello! I'm Barun.
+# Hello! I'm Barun.
 Write a brief introduction here. Mention what you do, your interests, and what you're currently working on.
 
 ### My Experience
